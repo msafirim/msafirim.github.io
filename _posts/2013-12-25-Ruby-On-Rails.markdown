@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Furaha Software Training - Ruby On Rails"
+date:   2013-12-25
+categories: jekyll update
+---
+
+{% gist arafatm/ea2d52f61d43befe9fc3 %}
