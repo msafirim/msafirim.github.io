@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Furaha Software Training - Ruby On Rails"
-date:   2013-01-21
+date:   2014-01-21
 categories: tutorial furaha-training
 ---
 
