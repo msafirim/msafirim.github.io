@@ -1,3 +1,5 @@
 name: msafiriM
 kramdown: redcarpet
 pygments: true
+
+theme: jekyll-theme-cayman
