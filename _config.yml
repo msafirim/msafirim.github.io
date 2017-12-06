@@ -1,3 +1,3 @@
 name: msafiriM
-markdown: redcarpet
+kramdown: redcarpet
 pygments: true
